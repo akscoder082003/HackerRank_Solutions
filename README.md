@@ -4,7 +4,7 @@
   <img src= 'hacker.png' />
 </p>
 
-welcome to my HackerRank repository! 🚀
+Welcome to my HackerRank repository! 🚀
 
 This repository contains my solutions to various problems from HackerRank. I've decided to share my solutions to help fellow developers, learners, and anyone who stumbles upon this repository. Feel free to explore the solutions in different programming languages.
 
