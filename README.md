@@ -1,5 +1,8 @@
 # HackerRank Solutions Repository
-![HackerRank Logo](hacker.png)
+<!-- ![HackerRank Logo](hacker.png) -->
+<p align="center">
+  <img src= 'hacker.png' />
+</p>
 
 welcome to my HackerRank repository! 🚀
 
